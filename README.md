@@ -9,4 +9,4 @@ In order to run the project:
 3. Navigate to 'localhost:3001/index.html' to access using the static client
 ---
 <br>
-Saving the outro takes a few seconds
+Saving the outro takes a few seconds and currently there is only an indication at the end of the process
